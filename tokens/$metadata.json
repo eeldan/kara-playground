@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "Global",
+    "Theme/Light",
+    "Theme/Dark",
+    "Type/Desktop",
+    "Type/Mobile"
+  ]
+}
